@@ -4,7 +4,6 @@ This program calculates the nth term of the Fibonacci series using a recursive a
 
 ## Author
 - **Student Name:** Dmytro Poliak
-- **Student Number:** 100443432
 
 ## Usage
 1. Compile the program using a Java compiler.
